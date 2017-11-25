@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSlider", "ImageSlider\ImageSlider.csproj", "{242C09D0-8FEA-4945-9F52-37779C3445BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{242C09D0-8FEA-4945-9F52-37779C3445BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242C09D0-8FEA-4945-9F52-37779C3445BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242C09D0-8FEA-4945-9F52-37779C3445BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242C09D0-8FEA-4945-9F52-37779C3445BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
